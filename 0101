@@ -1,6 +1,6 @@
 /*Write a Console Application Program to calculate the area of a rectangle. 
 Prompt the user to enter the length and width. Display the calculated area. 
-(use a separate function calculate the area).*/
+(use a separate function calculate area).*/
 
 using System;
 
